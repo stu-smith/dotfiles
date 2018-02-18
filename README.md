@@ -1,1 +1,1 @@
-# dotfiles
+# Just my personal settings files
